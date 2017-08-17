@@ -1,0 +1,67 @@
+W3SCHOOLS 1.1 - Intro to video for w3schools
+W3SCHOOLS 1.2 - HTML tag reference
+W3SCHOOLS 1.3 - HTML attribute reference
+W3SCHOOLS 1.4 - CSS property reference
+W3SCHOOLS 1.5 - CSS selector reference
+W3SCHOOLS 1.6 - Outro to video for w3schools
+
+
+
+W3SCHOOLS 1.1 - Intro to video for w3schools
+Chris from Codify Academy here.
+In this video i'm going to show you how to use w3schools as a reference when you're coding.
+This will serve as a dictionary for you, with a list of HTML tags and attributes,  and a list of CSS selectors, properties and values
+remember those are the main focuses for right now.
+
+
+W3SCHOOLS 1.2 - HTML tag reference
+Ok so when we go to w3schools.com we see a HTML reference button, I'm going to open this in a new window.
+now see an alphabetized list of all the HTML tags. each tag name is on the left  and a description is on the right.
+
+Lets open the a tag also know as the anchor tag
+and we want to focus at 3 main thing. 1st is the working example, you click on the try it yourself button, to see one for the anchor tag.
+
+below you find the 2nd main focus, the definition and how the tag is used, this will explain why you would use this tag over any other tag.
+
+and 3rd is the attribute list, so these are the ones that we can add to this tag.
+
+
+
+
+W3SCHOOLS 1.3 - HTML attribute reference
+Now lets move to the HTML attribute reference, we'll go back tab and on the left is the attributes reference, open this up and its a list of all the extra things we can add to HTML tags.
+
+We can see what the attribute name is, the elements it can be added to, and a description on what it does.
+
+
+I was specifically curious about the alt attribute on an img tag so I'll find the example for that one. click this button to see how it works
+you can change it properties and values here also, just click run to see what changes would. its a quick place to test stuff out.
+
+Thats HTML for now. since we only want to care about learning tags and attributes right now.
+
+
+
+W3SCHOOLS 1.4 - CSS property reference
+Lets do the other half, back on the homepage lets open up the CSS reference. here is a large list of CSS properties, they are grouped up to give you an overview.
+and as you scroll down you can see see the individual properties.
+
+Remember these properties can be applied to any tag, lets find one we want to use, lets look at adding a background-image.
+we can see an example, selecting the body tag and adding a background image to it.
+when to use the property, how the property is written in css and then the possible values you can add in.
+again the working example is where you can see how it would be writing in HTML and CSS.
+
+These examples always use the HTML style tag, this is a way to add CSS to HTML without the separate CSS file. its known as a internal style tag you can look up the style tag in the HTML reference for more info.
+
+
+
+W3SCHOOLS 1.5 - CSS selector reference
+and last we go back to the CSS reference and open up CSS Selectors to see the list of ways to choose HTML elements to style
+lets look at the HTML element selector we used earlier.
+
+we can see an example, how to use it and the syntax to create it.
+
+
+W3SCHOOLS 1.6 - Outro to video for w3schools
+So this is going to be a great dictionary for you as you begin to learn. Make to to book mark it and reference it often when you come across new attributes or selectors.
+
+Remember to try and keep the HTML - elements, tag and attributes separate from the CSS things, selectors properties and values.
